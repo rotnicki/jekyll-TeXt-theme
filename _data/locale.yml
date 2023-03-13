@@ -166,4 +166,26 @@ tr: &TR
   EMAIL_US                : "Bize email ile ulaşın."
   COPYRIGHT_DATES         : "2021"
 
+## => Polish
+########################
+pl: &PL
+  SUBSCRIBE               : "Zaprenumeruj"
+  READMORE                : "Czytaj więcej"
+  SEARCH                  : "Szukaj"
+  CANCEL                  : "Zrezygnuj"
+  VIEWS                   : "wyświetlenia"
+  LAST_UPDATED            : "Ostatnia aktualizacja"
+  PREVIOUS                : "Poprzedni"
+  NEXT                    : "Nastepny"
+  ARTICLE_DATE_FORMAT     : "%b %d, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] wpisy, [PAGE_COUNT] stroy."
+  LICENSE_ANNOUNCE        : "Opublikowano na licencji [LICENSE]."
+  POST_ON_GITHUB          : "Edytuj na GitHubie"
+  FOLLOW_ME               : "Śledź mnie na [NAME]."
+  FOLLOW_US               : "Śledź nas na [NAME]."
+  EMAIL_ME                : "Wyslij mi email."
+  EMAIL_US                : "Wyślij nam email."
+  COPYRIGHT_DATES         : "2023"
+
 # @end locale config
